@@ -22,7 +22,7 @@ from shutil import copyfile
 GITHUB_REPO_PREFIX = "https://raw.githubusercontent.com/cp-cp/Markdown4Zhihu/master/Data/"
 COMPRESS_THRESHOLD = 5e5 # The threshold of compression
 
-# python zhihu-publisher.py --input="/Users/cp_cp/GitHub/Markdown4Zhihu/Files/期末.md"
+# python zhihu-publisher.py --input="/Users/cp_cp/GitHub/Markdown4Zhihu/Files/概率论与数理统一.md"
 
 # The main function for this program
 def process_for_zhihu():
